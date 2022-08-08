@@ -1,6 +1,6 @@
 ## Olá, meu nome é Ana Lúcia
 
-Sou formanda em Engenharia de Computação e Informação na Universidade Federal do Rio de Janeiro (UFRJ). Já atuei em diversas áreas da Tecnologia da Informação, como Análise de Requisitos, Testes de Software e Desenvolvimento backend, mas no momento venho me aprofundando no desenvolvimento front-end e design gráfico, o qual tenho trabalhado como autônoma.
+Sou formanda em Engenharia de Computação e Informação na Universidade Federal do Rio de Janeiro (UFRJ). Já atuei em diversas áreas da Tecnologia da Informação, como Análise de Requisitos, Testes de Software e Desenvolvimento backend, mas no momento venho me aprofundando no desenvolvimento front-end.
 
 <div align="center">
   <a href="https://github.com/analuciacanto">
