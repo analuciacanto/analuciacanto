@@ -1,6 +1,7 @@
-## Olá, meu nome é Ana Lúcia
+## Hi, I'm Ana
 
-Sou formanda em Engenharia de Computação e Informação na Universidade Federal do Rio de Janeiro (UFRJ). Já atuei em diversas áreas da Tecnologia da Informação, como Análise de Requisitos, Testes de Software e Desenvolvimento backend, mas no momento venho me aprofundando no desenvolvimento front-end.
+A Software Engineer graduated by Federal University of Rio de Janeiro, with more than 5 years of experience as a Full Stack Developer. I consider myself an analytical and creative person, who enjoys working in teams and overcoming challenges. I've been studying more about Software Engineering area, which I have more affinity, such as requirements engineering and process management. 
+
 
 <div align="center">
   <a href="https://github.com/analuciacanto">
