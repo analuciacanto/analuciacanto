@@ -1,7 +1,12 @@
 ## Hi, I'm Ana
 
-A Software Engineer graduated by Federal University of Rio de Janeiro, with more than 5 years of experience as a Full Stack Developer. I consider myself an analytical and creative person, who enjoys working in teams and overcoming challenges. I've been studying more about Software Engineering area, which I have more affinity, such as requirements engineering and process management. 
+I hold a degree in Computer Engineering from UFRJ and have built a career that bridges software development (6 years) and digital product management (3 years). This hybrid path, spanning roles as Full Stack Developer, Product Owner, and Product Manager, allows me to move seamlessly between strategic business discussions and technical engineering decisions.
 
+I have a solid foundation in frontend, backend, and mobile development with React.js, Node.js, Java (Spring), and Flutter (Dart), as well as experience with CI/CD practices, automated testing, layered architecture, and microservices. I have also worked with Docker and Kubernetes for containerization and orchestration, applying clean code and scalability best practices.
+
+On the product and team side, I bring experience across the entire lifecycle of digital products, from discovery to metric tracking. As a Product Owner, I managed backlogs, defined roadmaps, wrote user stories, and facilitated agile ceremonies, while also engaging with business, operations, and customer success teams. I led initiatives that increased stakeholder engagement by 50%, reduced rework by 30%, and boosted team motivation and integration by 60%.
+
+My key differentiator lies in combining strategic vision with strong technical expertise: I can define roadmaps and prioritize backlogs based on data, while also engaging deeply with engineering teams. This enables me to act as a bridge between business and technology, fostering agile culture, collaboration, and the delivery of high-quality digital solutions.
 
 <div align="center">
   <a href="https://github.com/analuciacanto">
