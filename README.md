@@ -8,22 +8,7 @@ On the product and team side, I bring experience across the entire lifecycle of 
 
 My key differentiator lies in combining strategic vision with strong technical expertise: I can define roadmaps and prioritize backlogs based on data, while also engaging deeply with engineering teams. This enables me to act as a bridge between business and technology, fostering agile culture, collaboration, and the delivery of high-quality digital solutions.
 
-<div align="center">
-  <a href="https://github.com/analuciacanto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuciacanto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuciacanto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-
- </div>
-  
-  ##
+##
  
 <div>
 
