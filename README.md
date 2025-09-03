@@ -23,8 +23,7 @@ My key differentiator lies in combining strategic vision with strong technical e
  
 <div>
 
-<a href="https://www.instagram.com/anacanto.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:ana.lucia.canto@poli.ufrj.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:ana.lucia.canto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/analuciacanto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.anacanto.com.br/" target="_blank"><img src="https://img.shields.io/badge/-Website-yellow?style=for-the-badge" target="\_blank"></a>
+<a href="https://acantodev.com/" target="_blank"><img src="https://img.shields.io/badge/-Website-yellow?style=for-the-badge" target="\_blank"></a>
 </div>
