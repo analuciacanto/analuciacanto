@@ -9,7 +9,7 @@ On the product and team side, I bring experience across the entire lifecycle of 
 My key differentiator lies in combining strategic vision with strong technical expertise: I can define roadmaps and prioritize backlogs based on data, while also engaging deeply with engineering teams. This enables me to act as a bridge between business and technology, fostering agile culture, collaboration, and the delivery of high-quality digital solutions.
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -18,11 +18,6 @@ My key differentiator lies in combining strategic vision with strong technical e
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUserAqui&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUserAqui&layout=compact&theme=radical)
 
 ##
  
